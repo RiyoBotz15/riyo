@@ -1,33 +1,32 @@
 <p align="center">
-<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-
+<img src="hthttps://github.com/zeeoneofc/Alphabot-Md/blob/v5/image/lol.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="RAMDANI BOTZ MULTI DEVICE" src="https://img.shields.io/badge/Ramdani Botz versi 12.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/RamdaniOfficial/v12"><img title="Recode" src="https://img.shields.io/badge/Recode-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zeeoneofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramdaniofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramdani Official?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v12/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramdani Official/v12?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v12/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramdani Official/v12?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v12/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramdani Official/v12?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v12"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/Ramdaniofficial/v12/"><img title="Size" src="https://img.shields.io/github/repo-size/Ramdani Official/v12?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamdani Official%2Fv12&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Ramdaniofficial/v12/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphabot-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphabot-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/zeeoneofc/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot-Md?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/zeeoneofc/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ramdaniofficial/v12#requirements">Requirements</a> •
-  <a href="https://github.com/Ramdaniofficial/v12#instalasi">Installation</a> •
-  <a href="https://github.com/Ramdaniofficial/v12#thanks-to">Thanks to</a> •
-  <a href="https://github.com/Ramdaniofficial/v12#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/Ramdaniofficial/v12#donate">Donate</a>
+  <a href="https://github.com/zeeoneofc/Alphabot-Md#requirements">Requirements</a> •
+  <a href="https://github.com/zeeoneofc/Alphabot-Md#instalasi">Installation</a> •
+  <a href="https://github.com/zeeoneofc/Alphabot-Md#thanks-to">Thanks to</a> •
+  <a href="https://github.com/zeeoneofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/zeeoneofc/Alphabot-Md#donate">Donate</a>
 </p>
 </div>
 
@@ -35,12 +34,12 @@
 ---
 
 ## Information
-> Ramdani botz v12 adalah bot WhatsApp yg memakai base ori dari [Ramdani Official](https://github.com/Ramdaniofficial/blob/main/README.md). Ramdani botz v12 is a bot whatsapp using a Baileys library.
+> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-Ramdani botz](https://wa.me/6289512545999)
+* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -57,8 +56,8 @@
 
 ## For Windows/RDP
 ```bash
-git clone https://github.com/Ramdaniofficial/v12.git
-cd v12
+git clone https://github.com/zeeoneofc/Alphabot-Md.git
+cd Alphabot-Md
 npm install
 node main
 ```
@@ -67,17 +66,17 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg
-git clone https://github.com/Ramdaniofficial/v12.git
-cd v12
+git clone https://github.com/zeeoneofc/Alphabot-Md.git
+cd Alphabot-Md
 npm install
 node main
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/Ramdaniofficial/av12/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
-- Change botName on [this section](https://github.com/Ramdaniofficial/v12/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
-- You can edit list and display menu or donate on [this section](https://github.com/Ramdaniofficial/v12/blob/main/help/ind.js)
-- You can add fiture on [this section](https://github.com/Ramdaniofficial/v12/tree/main/message)
+- Change ownerNumber on [this section](https://github.com/zeeoneofc/aAlphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
+- Change botName on [this section](https://github.com/zeeoneofc/Alphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
+- You can edit list and display menu or donate on [this section](https://github.com/zeeoneofc/Alphabot-Md/blob/main/help/ind.js)
+- You can add fiture on [this section](https://github.com/zeeoneofc/Alphabot-Md/tree/main/message)
 
 
 ## Installing the FFmpeg for Windows
@@ -96,29 +95,29 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/ramdaniofficial)
-- [Dana](089512545999)
-- [Ovo](089512545999)
-- [Gopay](089512545999)
+- [Saweria](https://saweria.co/zeeoneofc)
+- [Dana](https://j.top4top.io/p_20532posd1.jpg)
+- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
+- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/Loc6xVYLGnwHm9vuz6hZe7)
-- [Group 2](https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq)
-- [Group 3](https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK)
+- [Alphabot 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
+- [Alphabot 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
+- [Alphabot 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 
 
 # Thanks to
-<a href="https://github.com/Ramdaniofficial"><img src="https://github.com/Ramdaniofficial.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
-[Ramdani Official](https://github.com/Ramdaniofficial)  | [Nurutomo](https://github.com/Nurutomo)
-Developer Ramdani bot v12 | Constributor |
+[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
+Owner Hisoka-Morou | Constributor |
 <a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
 Constributor | For Help |
 <a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
 For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/Ramdani Official.png?size=100)](http://github.com/Ramdani Official) 
-[Adiwajshing](https://github.com/adiwajshing) | [Ramdani Official](https://Ramdani Official.github.io)
-Owner of Baileys | Owner of Api Ramdani Botz |
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeoneofc.png?size=100)](http://github.com/zeeoneofc) 
+[Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
+Owner of Baileys | Owner of Api Alphabot |
 
